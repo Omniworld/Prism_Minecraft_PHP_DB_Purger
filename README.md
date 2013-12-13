@@ -11,7 +11,7 @@ On linux, you can output the logs to a file by setting up a script like that:
 
 #Generate Logfile
 
-'#!/bin/sh'
+\#!/bin/sh
 
 PHPFILE="PATH/TO/PHPFILE"
 
