@@ -37,7 +37,7 @@ $cleanup = array(
 $i = count($cleanup);
 $thedate = date("r");
 
-//Check if number of items in array is even, if not => Line 68
+//Check if number of items in array is even, if not => Line 71
 if(($i % 2) == 0){
 
 	$db = mysql_connect($db_server, $db_user, $db_pass);
